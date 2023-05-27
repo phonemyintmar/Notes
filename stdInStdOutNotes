@@ -1,0 +1,45 @@
+stdout ka one > so yin ae tr ka write to the file
+two >> so yin kya tok ae tr ka append to the file. 
+>> ko po use kya mhr pop.
+
+< ka kya tok input a nay nae htae tr
+lets say we want to do something from a text file 
+we can pass the command and use the lesser command < and then input file
+example - 
+wc -w < example.txt
+
+<< ka kya tok d lo work tl. << symbol ko yayy and then pass a name and press enter
+and then you can type whatever string you want for start, that will be the input and end the input with a string you started.
+that will be regarded as input 
+example -
+cat << EOF 
+Here goes 
+the input
+EOF
+
+EOF ka just example you can put whatever you want.
+
+<<< ka kya tok single string ko pass lote tr 
+
+echo <<< "Hello World" ae lo a di ka ka needs double quotes.
+
+
+
+
+okay dr ka test 
+for conditions pop 
+
+test a = b loh yite loh ya tl 
+and it will just executes. and you have to catch the exit code
+exit code ka $?
+so echo $? 
+if 1 false 
+if 0 true
+
+or [ a = a ] ae lo yayy ll ya tl 
+ngr ka tok test a = a ko po th baw kya
+
+we can also use numbers for that like test 0 = 1
+
+
+
