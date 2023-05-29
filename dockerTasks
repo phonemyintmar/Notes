@@ -1,0 +1,8 @@
+run a spring app in docker.
+download a spring version from docker hub and run
+write a docker file and make it to image. 
+add a manual docker image locally and run it. 
+upload docker image to docker hub.
+
+
+start docker from base linux centos and also from a base spring image

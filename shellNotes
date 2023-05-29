@@ -1,0 +1,54 @@
+logical operators twy ka 
+eq ka equal
+ne ka not equal
+lt ka less than
+gt ka greater than
+le ka less than or equal
+ge ka greater than or equal
+
+= ka assignment tae ae tr pyan sann kyi
+== ka equality
+% ka a kywin
+/ ka division pop
+
+
+-o ka logical OR operator || ll use loh ya 
+-a ka logical AND operator && ll use loh ya 
+
+but -o nae a ka po kg th lo pl $a == $b -o $a==$c ae lo so pee yaw pop
+
+String operators//
+= ka equals 
+string so equals ka not assign pop okay. 
+-z ka checks if given string operand size zero tae
+-n ka check if given string operant size is non zero 
+
+str ka check if str is not the empty string tae. 
+d a tine [$string] ae lo lote ya tr lr ma thi wo 
+
+file operators//
+
+-b file ka check if block special
+-c check character special file hote lr loh check
+-d check if file is directory
+-f check file is ordinary opposed to directory or special file
+-g check if file has its set groupid bit set, if yes condition is true tae
+-k check if file has sticky bit set tae
+-p check if file is a named pipe tae
+kyan tr twy shi thay tl lo tl htin tr pl mhet ya ag
+-r so yin check if file is readable
+-w check if writable
+-x check if executable
+-s check if size is > 0
+-e check if exists
+
+
+
+
+
+
+
+
+
+
+
