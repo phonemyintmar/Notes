@@ -1,0 +1,25 @@
+StringtoLocalDate
+toJson
+toObject
+Stringwithcommatoarray
+Stringwithcommatolist
+generaterandomNcharacters
+saveToTmp(file)
+getIpAddress
+validateIpAddress
+common headers
+
+log utils?
+
+
+exceptions?
+and base responses with response codes?
+
+process code or string pool
+string pool ka mostly negligible moh loh ma use tok wo.
+
+isNumeric?
+
+jasypt? //nout mha
+some encryption //
+
